@@ -1,0 +1,81 @@
+table{
+			text-align: center;
+			background-color: darkgreen;
+			opacity: 0.94;
+			width: 70%;
+		}
+		body{
+			background-image: url("dori.webp");
+		}
+
+		.n6{
+			height: 250px;
+			width: 250px;
+		}
+		.z1{
+			height: 150px;
+			width: 150px;
+		}
+		.z2{
+			height: 150px;
+			width: 150px;
+		}
+		.z3{
+			height: 150px;
+			width: 150px;
+		}
+		.z4{
+			height: 150px;
+			width: 150px;
+		}
+		.t1{
+			height: 150px;
+			width: 150px;
+		}
+		.t2{
+			height: 150px;
+			width: 150px;
+		}
+		.t3{
+			height: 150px;
+			width: 150px;
+		}
+		.t4{
+			height: 150px;
+			width: 150px;
+		}
+		.p1{
+			height: 150px;
+			width: 150px;
+		}
+		.p2{
+			height: 150px;
+			width: 150px;
+		}
+		.p3{
+			height: 150px;
+			width: 150px;
+		}
+		.p4{
+			height: 150px;
+			width: 150px;
+			}
+         /* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: #182b2e;
+}
+
+/* mouse over link */
+a:hover {
+  color: brown;
+}
+
+/* selected link */
+a:active {
+  color: purple;
+}
